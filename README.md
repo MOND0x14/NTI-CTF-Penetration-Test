@@ -1,10 +1,10 @@
 # CentOS CTF – Penetration Testing & Vulnerability Assessment
-
+```
 ![Platform](https://img.shields.io/badge/Platform-CentOS-red)
 ![Testing](https://img.shields.io/badge/Testing-Penetration%20Testing-blue)
 ![Environment](https://img.shields.io/badge/Environment-CTF%20%2F%20Lab-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
+````
 ## Overview
 
 This project documents a hands-on penetration testing and vulnerability assessment performed against a CentOS 6.7 virtual machine as part of the 12th Capture The Flag (CTF) challenge.
