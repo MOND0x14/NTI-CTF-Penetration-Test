@@ -239,7 +239,7 @@ No exploitable custom SUID binaries or misconfigured sudo permissions were ident
 
 Screenshots documenting the assessment are available in the [`screenshots`](./screenshots/) directory.
 
-The complete penetration testing report is available in [`report/Penetration-Testing-Report.pdf`](./report/Penetration-Testing-Report.pdf).
+The complete penetration testing report is available in [`Penetration-Testing-Report.pdf`](/Penetration-Testing-Report.pdf).
 
 ## 14. Recommendations
 
